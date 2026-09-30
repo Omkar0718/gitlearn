@@ -1,0 +1,12 @@
+# Environment variables / secrets
+.env
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Dependency folders
+node_modules/
+
+# Editor folders
+.vscode/
